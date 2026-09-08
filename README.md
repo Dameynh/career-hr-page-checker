@@ -76,7 +76,7 @@ You will be asked to enter company URLs separated by commas.
 For example:
 
 ```text
-https://www.apple.com/careers/in/, https://stripe.com/careers, https://example.com
+https://www.apple.com/, https://stripe.com/, https://example.com
 ```
 
 ## Example Output
