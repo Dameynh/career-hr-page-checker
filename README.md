@@ -126,7 +126,7 @@ The program:
 * Cannot access websites that refuse the request or require authentication/CAPTCHA.
 * Does not attempt to bypass website access restrictions.
 
-**This tool is intended as a preliminary check only. Results may be inaccurate, and users should manually verify the company's website before making decisions based on the results.**
+**Disclaimer:** This tool is intended as a preliminary check only. Results may be inaccurate, and users should manually verify the company's website before making decisions based on the results.
 
 ## Purpose
 
