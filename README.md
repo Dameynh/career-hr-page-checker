@@ -96,11 +96,13 @@ If a website refuses the request:
 ```text
 Access denied: https://example.com
 ```
-HTTP Status Codes
+## HTTP Status Codes
+
 The program handles different HTTP response status codes as follows:
-200 — The webpage was successfully retrieved. The program checks the page for relevant information.
-403 — Access to the webpage was denied. The program reports Access denied.
-Any other status code — The program reports the status code returned by the website.
+
+- **200** — The webpage was successfully retrieved. The program checks the page for relevant information.
+- **403** — Access to the webpage was denied. The program reports `Access denied`.
+- **Any other status code** — The program reports the status code returned by the website.
 
 ## Limitations
 
