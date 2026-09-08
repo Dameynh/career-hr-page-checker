@@ -126,6 +126,8 @@ The program:
 * Cannot access websites that refuse the request or require authentication/CAPTCHA.
 * Does not attempt to bypass website access restrictions.
 
+**This tool is intended as a preliminary check only. Results may be inaccurate, and users should manually verify the company's website before making decisions based on the results.**
+
 ## Purpose
 
 This project was created primarily as a **learning and portfolio project** to practice:
@@ -140,5 +142,3 @@ This project was created primarily as a **learning and portfolio project** to pr
 * Browser automation
 * JavaScript-rendered webpages
 * Using external Python libraries
-
-It is not intended to replace manually checking a company's website.
